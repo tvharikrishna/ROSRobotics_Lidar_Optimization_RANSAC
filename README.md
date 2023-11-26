@@ -2,6 +2,8 @@
   <h1>Lidar Data Optimization using RANSAC Algorithm</h1>
 </div>
 
+<br>
+
 <p align="center">
   <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
 </p>
@@ -62,8 +64,8 @@ In the broader context, your project stands to significantly advance the field o
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/posts/tvharikrishna_lidar-pointcloud-ros-activity-7074351404991008769-f07v?utm_source=share&utm_medium=member_desktop">
-  <img src="https://img.shields.io/badge/Video-Watch My Robot in Action-blue" alt="Video"/>
+  <a href="https://www.linkedin.com/posts/tvharikrishna_ransac-lidar-rosprojects-activity-7122595509831114753-lFRF?utm_source=share&utm_medium=member_desktop">
+  <img src="https://img.shields.io/badge/Video- ROS LiDAR Data w/ RANSAC in Action -blue" alt="Video"/>
   </a>
 </p>
 
