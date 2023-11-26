@@ -1,4 +1,6 @@
-# Lidar Data Optimization using RANSAC Algorithm
+<div align="center">
+  <h1>Lidar Data Optimization using RANSAC Algorithm</h1>
+</div>
 
 <p align="center">
   <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
